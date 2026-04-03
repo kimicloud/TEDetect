@@ -1,4 +1,4 @@
-# TEDScreen — Thyroid Eye Disease Screening Tool
+# TEDetect — Thyroid Eye Disease Screening Tool
 
 A symptom-based web screening tool for early detection of Thyroid Eye Disease (TED). Built with plain HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
@@ -63,8 +63,8 @@ No gradients anywhere.
 No setup needed. Clone the repo and open `index.html`.
 
 ```bash
-git clone https://github.com/your-username/tedscreen.git
-cd tedscreen
+git clone https://github.com/your-username/TEDetect.git
+cd TEDetect
 open index.html
 ```
 
